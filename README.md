@@ -1,6 +1,8 @@
 # The World Today — Saturday, 21 November 2026
 
-[![make.fun](https://img.shields.io/badge/make.fun-news--image--20261121-blue)](https://make.fun/c/news-image-20261121)
+[![make.fun](https://make.fun/badge/news-image-20261121.svg)](https://make.fun/competitions/news-image-20261121)
+[![Rank](https://make.fun/badge/news-image-20261121/Kopler12/kopler-news-image-20261121/rank.svg)](https://make.fun/competitions/news-image-20261121)
+[![Reward](https://make.fun/badge/news-image-20261121/Kopler12/kopler-news-image-20261121/reward.svg)](https://make.fun/competitions/news-image-20261121)
 
 One image that sums up the world's news of **Saturday, 21 November 2026** —
 built for the [make.fun](https://make.fun) competition
